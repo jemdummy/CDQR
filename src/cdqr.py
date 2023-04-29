@@ -60,7 +60,7 @@ create_db = True
 # Dictionary of parsing options from command line to log2timeline
 parse_optionslatest = {
     'win':
-    "bash_history,bencode,czip,esedb,filestat,lnk,mcafee_protection,olecf,pe,prefetch,recycle_bin,recycle_bin_info2,sccm,sophos_av,sqlite,symantec_scanlog,winevt,winevtx,webhist,winfirewall,winjob,winreg,zsh_extended_history",
+    "bash_history,bencode,czip,esedb,filestat,lnk,mcafee_protection,olecf,pe,prefetch,recycle_bin,recycle_bin_info2,sccm,sophos_av,sqlite,symantec_scanlog,mft,winevt,winevtx,webhist,winfirewall,winjob,winreg,zsh_extended_history",
     'mft_usnjrnl':
     "mft,usnjrnl",
     'lin':
